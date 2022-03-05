@@ -1,17 +1,17 @@
 <div align="center">
 
-<h1 align="center"><b>👾 The Alpha-X Whatsapp User Bot 🍁</b></h1>
+<h1 align="center"><b>👾 The Dark Error Whatsapp User Bot 🍁</b></h1>
 <h1 align="center">~ ᴡᴏʀʟᴅ ꜰɪʀꜱᴛ ꜰᴜʟʟ ᴄᴜꜱᴛᴏᴍɪᴢᴀʙʟᴇ ᴜꜱᴇʀ ʙᴏᴛ ꜰᴏʀ ᴡʜᴀᴛꜱᴀᴘᴘ ~</h1>
 
 <br>
 
-<a href="https://github.com/SL-Alpha-X-Team"><img title="Logo" src="https://telegra.ph/file/c265e654e3ec87c78d984.jpg" width="300" height="280">
+<a href="https://i.ibb.co/FBNmc6B/IMG-20211108-WA0021.jpg"><img title="Logo" src="https://i.ibb.co/FBNmc6B/IMG-20211108-WA0021.jpg" width="300" height="280">
 
-<a href="https://github.com/SL-Alpha-X-Team"><img title="Alpha-X-Tm" src="https://img.shields.io/badge/Alpha_X_team-black?colorA=inactive&colorB=purple&style=social&logo=github"></a>
+<a href="https://github.com/SL-Alpha-X-Team"><img title="Dark Error" src="https://i.ibb.co/FBNmc6B/IMG-20211108-WA0021.jpg"></a>
 
-<h1> 🔎 What is Alpha-X 🔎</h1>
+<h1> 🔎 What is Dark Error 🔎</h1>
 
-**Alpha-X ,** is a WhatsApp helper bot written by [Yusuf Usta](https://github.com/Quiec) and edited by [SL-Alpha-X-Team](https://github.com/SL-Alpha-X-Team). Does not log into your account It is written on WhatsApp Web API. 🍂
+**Dark Error ,** is a WhatsApp helper bot written by [Yusuf Usta](https://github.com/Quiec) and edited by [Dark Error](https://github.com/SL-Alpha-X-Team). Does not log into your account It is written on WhatsApp Web API. 🍂
 
 ---
 
